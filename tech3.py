@@ -225,7 +225,7 @@ def login():
 		jalan(' \033[1;91mWarning: \033[1;95mDo Not Use Your Personal Account' )
 		jalan(' \033[1;91mWarning: \033[1;95mUse a New Account To Login' )
 		jalan(' \033[1;91mWarning: \033[1;95mTermux  All version Work✅' )                 
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91mBlackMafia\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;91m-漫~*'¨¯¨'*·舞~ ⓢн€Ꭵķℍ 𝕗ά𝐇𝕒𝓭 ~舞*'¨¯¨'*·~漫-\033[1;95m•◈•▬ ▬ ▬ ▬ •◈•"
 		print('	   \033[1;91m▬\x1b[1;95m.........LOGIN WITH FACEBOOK........\x1b[1;91m▬' )
 		print('	' )
 		id = raw_input('\033[1;91m[+] \x1b[1;91mID/Email\x1b[1;95m: \x1b[1;95m')
